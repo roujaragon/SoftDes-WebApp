@@ -1,0 +1,1 @@
+export { DesktopContact } from "./DesktopContact";

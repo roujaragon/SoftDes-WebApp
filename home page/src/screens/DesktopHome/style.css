@@ -1,0 +1,317 @@
+.desktop-home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop-home .div {
+  background-color: #ffffff;
+  height: 1280px;
+  position: relative;
+  width: 1920px;
+}
+
+.desktop-home .overlap {
+  height: 1074px;
+  left: 0;
+  position: absolute;
+  top: 162px;
+  width: 1920px;
+}
+
+.desktop-home .text {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 507px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 182px;
+  width: 1px;
+}
+
+.desktop-home .union {
+  height: 933px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.desktop-home .rectangle {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 201px;
+  left: 122px;
+  position: absolute;
+  top: 873px;
+  width: 377px;
+}
+
+.desktop-home .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 201px;
+  left: 527px;
+  position: absolute;
+  top: 872px;
+  width: 377px;
+}
+
+.desktop-home .rectangle-3 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 201px;
+  left: 933px;
+  position: absolute;
+  top: 865px;
+  width: 376px;
+}
+
+.desktop-home .find-your-perfect {
+  color: #1e1e1e;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: 122px;
+  letter-spacing: 0;
+  line-height: 87px;
+  position: absolute;
+  top: 125px;
+  width: 955px;
+}
+
+.desktop-home .text-wrapper {
+  color: #1e1e1e;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 23px;
+  font-weight: 400;
+  left: 554px;
+  letter-spacing: 0;
+  line-height: 67px;
+  position: absolute;
+  top: 963px;
+  width: 437px;
+}
+
+.desktop-home .text-wrapper-2 {
+  color: #1e1e1e;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 23px;
+  font-weight: 400;
+  left: 141px;
+  letter-spacing: 0;
+  line-height: 67px;
+  position: absolute;
+  top: 965px;
+  width: 437px;
+}
+
+.desktop-home .text-wrapper-3 {
+  color: #1e1e1e;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 23px;
+  font-weight: 400;
+  left: 957px;
+  letter-spacing: 0;
+  line-height: 67px;
+  position: absolute;
+  top: 957px;
+  width: 436px;
+}
+
+.desktop-home .rectangle-4 {
+  background-color: #f4f4f4;
+  border-radius: 15px;
+  height: 75px;
+  left: 122px;
+  position: absolute;
+  top: 422px;
+  width: 808px;
+}
+
+.desktop-home .element {
+  height: 44px;
+  left: 837px;
+  object-fit: cover;
+  position: absolute;
+  top: 438px;
+  width: 81px;
+}
+
+.desktop-home .text-wrapper-4 {
+  color: #646161;
+  font-family: "Futura Lt BT-Light", Helvetica;
+  font-size: 30px;
+  font-weight: 300;
+  left: 167px;
+  letter-spacing: 0;
+  line-height: 62px;
+  position: absolute;
+  top: 429px;
+  width: 403px;
+}
+
+.desktop-home .line {
+  height: 44px;
+  left: 837px;
+  object-fit: cover;
+  position: absolute;
+  top: 438px;
+  width: 1px;
+}
+
+.desktop-home .img {
+  height: 66px;
+  left: 944px;
+  object-fit: cover;
+  position: absolute;
+  top: 898px;
+  width: 107px;
+}
+
+.desktop-home .element-2 {
+  height: 61px;
+  left: 539px;
+  object-fit: cover;
+  position: absolute;
+  top: 905px;
+  width: 92px;
+}
+
+.desktop-home .element-3 {
+  height: 64px;
+  left: 141px;
+  object-fit: cover;
+  position: absolute;
+  top: 905px;
+  width: 74px;
+}
+
+.desktop-home .logo {
+  height: 65px;
+  left: 114px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 287px;
+}
+
+.desktop-home .overlap-group {
+  background-color: #404f81;
+  border-radius: 10px;
+  height: 78px;
+  left: 1383px;
+  position: absolute;
+  top: 36px;
+  width: 200px;
+}
+
+.desktop-home .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.desktop-home .div-wrapper {
+  background-color: var(--collection-1-ylw);
+  border-radius: 10px;
+  height: 78px;
+  left: 1598px;
+  position: absolute;
+  top: 36px;
+  width: 206px;
+}
+
+.desktop-home .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.desktop-home .text-wrapper-7 {
+  color: var(--collection-1-blu-2);
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 586px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 74px;
+}
+
+.desktop-home .text-wrapper-8 {
+  color: #757575;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 728px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 94px;
+}
+
+.desktop-home .text-wrapper-9 {
+  color: #757575;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1099px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 112px;
+}
+
+.desktop-home .text-wrapper-10 {
+  color: #757575;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 890px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 141px;
+}
+
+.desktop-home .rectangle-5 {
+  background-color: #152f83;
+  border-radius: 20px;
+  height: 4px;
+  left: 596px;
+  position: absolute;
+  top: 91px;
+  width: 54px;
+}

@@ -1,0 +1,527 @@
+.desktop-listing {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop-listing .div-2 {
+  background-color: #ffffff;
+  height: 2698px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.desktop-listing .overlap {
+  height: 2536px;
+  left: -32px;
+  position: absolute;
+  top: 162px;
+  width: 1983px;
+}
+
+.desktop-listing .rectangle-2 {
+  background: linear-gradient(180deg, rgb(247.56, 208.5, 66.02) 0%, rgba(255, 156.27, 40.37, 0.84) 100%);
+  height: 2536px;
+  left: 32px;
+  opacity: 0.2;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.desktop-listing .text {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 505px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 294px;
+  width: 1px;
+}
+
+.desktop-listing .text-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 588px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 760px;
+  width: 1px;
+}
+
+.desktop-listing .text-3 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 588px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1779px;
+  width: 1px;
+}
+
+.desktop-listing .rectangle-3 {
+  background-color: #404f81e6;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 147px;
+  left: 0;
+  position: absolute;
+  top: 1437px;
+  width: 1983px;
+}
+
+.desktop-listing .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 769px;
+  letter-spacing: 0;
+  line-height: 62px;
+  position: absolute;
+  top: 1479px;
+  white-space: nowrap;
+}
+
+.desktop-listing .img {
+  height: 72px;
+  left: 717px;
+  position: absolute;
+  top: 86px;
+  width: 647px;
+}
+
+.desktop-listing .rectangle-4 {
+  height: 72px;
+  left: 532px;
+  position: absolute;
+  top: 86px;
+  width: 176px;
+}
+
+.desktop-listing .element {
+  height: 37px;
+  left: 1299px;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 63px;
+}
+
+.desktop-listing .text-wrapper-6 {
+  color: #646161;
+  font-family: "Futura Lt BT-Light", Helvetica;
+  font-size: 25px;
+  font-weight: 300;
+  left: 743px;
+  letter-spacing: 0;
+  line-height: 62px;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 85px;
+  white-space: nowrap;
+  width: 349px;
+}
+
+.desktop-listing .line {
+  height: 37px;
+  left: 1299px;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 1px;
+}
+
+.desktop-listing .component-2 {
+  left: 151px !important;
+  position: absolute !important;
+  top: 228px !important;
+}
+
+.desktop-listing .component-instance {
+  left: 151px !important;
+  position: absolute !important;
+  top: 609px !important;
+}
+
+.desktop-listing .component-2-instance {
+  left: 151px !important;
+  position: absolute !important;
+  top: 1628px !important;
+}
+
+.desktop-listing .overlap-wrapper {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 347px;
+  left: 150px;
+  position: absolute;
+  top: 990px;
+  width: 550px;
+}
+
+.desktop-listing .overlap-2 {
+  height: 356px;
+  position: relative;
+}
+
+.desktop-listing .pexels-pixabay {
+  height: 349px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 550px;
+}
+
+.desktop-listing .rectangle-5 {
+  background-color: #ffffff40;
+  border-radius: 0px 0px 20px 20px;
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 230px;
+  width: 550px;
+}
+
+.desktop-listing .text-wrapper-7 {
+  color: #000000;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 237px;
+  width: 453px;
+}
+
+.desktop-listing .text-wrapper-8 {
+  color: #000000;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 265px;
+  width: 453px;
+}
+
+.desktop-listing .text-wrapper-9 {
+  color: #000000;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 284px;
+  width: 453px;
+}
+
+.desktop-listing .text-wrapper-10 {
+  color: #000000;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 305px;
+  width: 453px;
+}
+
+.desktop-listing .text-wrapper-11 {
+  color: #000000;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 327px;
+  width: 453px;
+}
+
+.desktop-listing .overlap-group-wrapper {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 347px;
+  left: 150px;
+  position: absolute;
+  top: 2009px;
+  width: 550px;
+}
+
+.desktop-listing .design-component-instance-node {
+  left: 718px !important;
+  position: absolute !important;
+  top: 229px !important;
+}
+
+.desktop-listing .component-3 {
+  left: 718px !important;
+  position: absolute !important;
+  top: 610px !important;
+}
+
+.desktop-listing .component-4 {
+  left: 718px !important;
+  position: absolute !important;
+  top: 1629px !important;
+}
+
+.desktop-listing .div-wrapper {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 348px;
+  left: 716px;
+  position: absolute;
+  top: 991px;
+  width: 550px;
+}
+
+.desktop-listing .overlap-3 {
+  height: 357px;
+  position: relative;
+}
+
+.desktop-listing .text-wrapper-12 {
+  color: #000000;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 285px;
+  width: 453px;
+}
+
+.desktop-listing .text-wrapper-13 {
+  color: #000000;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 306px;
+  width: 453px;
+}
+
+.desktop-listing .text-wrapper-14 {
+  color: #000000;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 328px;
+  width: 453px;
+}
+
+.desktop-listing .component-5 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 348px;
+  left: 716px;
+  position: absolute;
+  top: 2010px;
+  width: 550px;
+}
+
+.desktop-listing .component-6 {
+  left: 1284px !important;
+  position: absolute !important;
+  top: 229px !important;
+}
+
+.desktop-listing .component-7 {
+  left: 1284px !important;
+  position: absolute !important;
+  top: 610px !important;
+}
+
+.desktop-listing .component-8 {
+  left: 1284px !important;
+  position: absolute !important;
+  top: 1629px !important;
+}
+
+.desktop-listing .component-9 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 348px;
+  left: 1283px;
+  position: absolute;
+  top: 991px;
+  width: 550px;
+}
+
+.desktop-listing .component-10 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: -10px 13px 10px #00000080;
+  height: 348px;
+  left: 1283px;
+  position: absolute;
+  top: 2010px;
+  width: 550px;
+}
+
+.desktop-listing .vector {
+  height: 32px;
+  left: 149px;
+  position: absolute;
+  top: 37px;
+  width: 45px;
+}
+
+.desktop-listing .logo {
+  height: 65px;
+  left: 115px;
+  object-fit: cover;
+  position: absolute;
+  top: 42px;
+  width: 287px;
+}
+
+.desktop-listing .overlap-4 {
+  background-color: var(--collection-1-blu);
+  border-radius: 10px;
+  height: 78px;
+  left: 1384px;
+  position: absolute;
+  top: 36px;
+  width: 200px;
+}
+
+.desktop-listing .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.desktop-listing .overlap-5 {
+  background-color: var(--collection-1-ylw);
+  border-radius: 10px;
+  height: 78px;
+  left: 1598px;
+  position: absolute;
+  top: 36px;
+  width: 206px;
+}
+
+.desktop-listing .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.desktop-listing .text-wrapper-17 {
+  color: var(--collection-1-color-5);
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 586px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 74px;
+}
+
+.desktop-listing .text-wrapper-18 {
+  color: #152f83;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 728px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 94px;
+}
+
+.desktop-listing .text-wrapper-19 {
+  color: #757575;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 1099px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 112px;
+}
+
+.desktop-listing .text-wrapper-20 {
+  color: #757575;
+  font-family: "Futura Hv BT-Heavy", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  left: 890px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 60px;
+  width: 141px;
+}
+
+.desktop-listing .rectangle-6 {
+  background-color: #152f83;
+  border-radius: 20px;
+  height: 4px;
+  left: 748px;
+  position: absolute;
+  top: 91px;
+  width: 54px;
+}
